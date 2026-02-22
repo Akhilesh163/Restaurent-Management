@@ -1,0 +1,26 @@
+@import "tailwindcss";
+.app{
+   width: 90%;
+   margin: auto;
+   
+}
+*{
+   /* padding: 0; */
+   scroll-behavior: smooth;
+   /* margin: 0; */
+}
+.explore-menu-container {
+   margin-top: 40px;
+}
+.line{
+    margin-top: 40px;
+
+}
+.explore-footer {
+   margin-top: 15px;
+   margin-bottom: 40px;
+   padding-top: 60px;
+   padding-bottom: 150px;
+   background-color: white;
+   
+}
